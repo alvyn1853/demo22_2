@@ -1,1 +1,2 @@
 isi file 1 lokal
+edit file1 remote
