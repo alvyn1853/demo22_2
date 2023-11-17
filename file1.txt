@@ -1,2 +1,3 @@
 isi file 1 lokal
-edit file1 remote
+edit file1 remote|edit lokal
+edit lokal tambah baris
